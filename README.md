@@ -1,7 +1,7 @@
 
 # Tela-de-usuarios *Em processo...
 <br>
-<p>Projeto de tela de cadastrar usuaríos, onde colocamos o nome e a idade do usuaríos e enviamos para o banco de dados, projeto com intuito mesmo de botar o react eo node em pratica. </p>
+<p>Projeto de tela de cadastrar usuários, onde colocamos o nome e a idade dos usuários e enviamos para o banco de dados, projeto com intuito mesmo de botar o react eo node em pratica. </p>
 <br>
 Projeto feito com:
 <br>
